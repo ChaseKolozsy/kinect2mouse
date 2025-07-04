@@ -1,0 +1,29 @@
+# Ignore the reference Kinect code directories
+KinectFusionHeadScanning-WPF/
+Microsoft.Kinect.Toolkit/
+Microsoft.Kinect.Toolkit.FaceTracking/
+Microsoft.Kinect.Toolkit.Fusion/
+
+# Visual Studio build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.vspscc
+*.vssscc
+.vs/
+
+# NuGet packages
+packages/
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+# Application specific
+*.exe
+*.dll
+*.pdb
+*.config 
